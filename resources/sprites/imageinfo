@@ -1,0 +1,8 @@
+background_asset1 - sprites used for the background animation preset 1
+background_asset2
+stair- Stair sprite
+player- sprite representing the player 
+enemy_test- test sprite for other entities in the game world
+blank- blank asset used for a reference when making other sprites
+brick- basic ground sprites 
+menu- menu asset sprite
